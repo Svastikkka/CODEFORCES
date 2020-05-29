@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="82db7710-d786-4497-be6e-c7e7cfe60938" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aNjV8mXIarLeISGm9Tm9OMAbsb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/venv" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cases" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.J. AbuTahun and Flash Memories">
+    <configuration name="A. A+B (Trial Problem)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CodeForce" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/A. A+B (Trial Problem).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="D. Bashar and the bad land (Easy) (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CodeForce" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cases/D. Bashar and the bad land (Easy).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="G. Super Weird Game" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CodeForce" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/G. Super Weird Game.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="H. Mahmoud and the flagstones" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CodeForce" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/H. Mahmoud and the flagstones.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="J. AbuTahun and Flash Memories" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CodeForce" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/J. AbuTahun and Flash Memories.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.J. AbuTahun and Flash Memories" />
+        <item itemvalue="Python.H. Mahmoud and the flagstones" />
+        <item itemvalue="Python.G. Super Weird Game" />
+        <item itemvalue="Python.A. A+B (Trial Problem)" />
+        <item itemvalue="Python.D. Bashar and the bad land (Easy) (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="82db7710-d786-4497-be6e-c7e7cfe60938" name="Default Changelist" comment="" />
+      <created>1586582967765</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586582967765</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1419" height="244" key="GridCell.Tab.0.bottom" timestamp="1590729265937">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state width="1419" height="244" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1590727089600" />
+    <state width="1419" height="204" key="GridCell.Tab.0.bottom/0.23.1440.800@0.23.1440.800" timestamp="1586991324774" />
+    <state width="1419" height="244" key="GridCell.Tab.0.bottom/0.23.1440.803@0.23.1440.803" timestamp="1589531503509" />
+    <state width="1419" height="244" key="GridCell.Tab.0.bottom/0.23.1440.805@0.23.1440.805" timestamp="1590729265937" />
+    <state width="1419" height="257" key="GridCell.Tab.0.bottom/0.23.1440.807@0.23.1440.807" timestamp="1586811188870" />
+    <state width="1419" height="244" key="GridCell.Tab.0.center" timestamp="1590729265935">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state width="1419" height="244" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1590727089599" />
+    <state width="1419" height="204" key="GridCell.Tab.0.center/0.23.1440.800@0.23.1440.800" timestamp="1586991324772" />
+    <state width="1419" height="244" key="GridCell.Tab.0.center/0.23.1440.803@0.23.1440.803" timestamp="1589531503508" />
+    <state width="1419" height="244" key="GridCell.Tab.0.center/0.23.1440.805@0.23.1440.805" timestamp="1590729265935" />
+    <state width="1419" height="257" key="GridCell.Tab.0.center/0.23.1440.807@0.23.1440.807" timestamp="1586811188869" />
+    <state width="1419" height="244" key="GridCell.Tab.0.left" timestamp="1590729265931">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state width="1419" height="244" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1590727089598" />
+    <state width="1419" height="204" key="GridCell.Tab.0.left/0.23.1440.800@0.23.1440.800" timestamp="1586991324772" />
+    <state width="1419" height="244" key="GridCell.Tab.0.left/0.23.1440.803@0.23.1440.803" timestamp="1589531503507" />
+    <state width="1419" height="244" key="GridCell.Tab.0.left/0.23.1440.805@0.23.1440.805" timestamp="1590729265931" />
+    <state width="1419" height="257" key="GridCell.Tab.0.left/0.23.1440.807@0.23.1440.807" timestamp="1586811188868" />
+    <state width="1419" height="244" key="GridCell.Tab.0.right" timestamp="1590729265936">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state width="1419" height="244" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1590727089599" />
+    <state width="1419" height="204" key="GridCell.Tab.0.right/0.23.1440.800@0.23.1440.800" timestamp="1586991324773" />
+    <state width="1419" height="244" key="GridCell.Tab.0.right/0.23.1440.803@0.23.1440.803" timestamp="1589531503509" />
+    <state width="1419" height="244" key="GridCell.Tab.0.right/0.23.1440.805@0.23.1440.805" timestamp="1590729265936" />
+    <state width="1419" height="257" key="GridCell.Tab.0.right/0.23.1440.807@0.23.1440.807" timestamp="1586811188870" />
+    <state width="1419" height="257" key="GridCell.Tab.1.bottom" timestamp="1586811188873">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state width="1419" height="257" key="GridCell.Tab.1.bottom/0.23.1440.807@0.23.1440.807" timestamp="1586811188873" />
+    <state width="1419" height="257" key="GridCell.Tab.1.center" timestamp="1586811188872">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state width="1419" height="257" key="GridCell.Tab.1.center/0.23.1440.807@0.23.1440.807" timestamp="1586811188872" />
+    <state width="1419" height="257" key="GridCell.Tab.1.left" timestamp="1586811188871">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state width="1419" height="257" key="GridCell.Tab.1.left/0.23.1440.807@0.23.1440.807" timestamp="1586811188871" />
+    <state width="1419" height="257" key="GridCell.Tab.1.right" timestamp="1586811188872">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state width="1419" height="257" key="GridCell.Tab.1.right/0.23.1440.807@0.23.1440.807" timestamp="1586811188872" />
+    <state x="376" y="264" key="com.intellij.ide.util.TipDialog" timestamp="1590037777575">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="376" y="264" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1590037777575" />
+    <state x="376" y="259" key="com.intellij.ide.util.TipDialog/0.23.1440.803@0.23.1440.803" timestamp="1587490568795" />
+    <state x="376" y="259" key="com.intellij.ide.util.TipDialog/0.23.1440.805@0.23.1440.805" timestamp="1586582981592" />
+    <state x="376" y="260" key="com.intellij.ide.util.TipDialog/0.23.1440.807@0.23.1440.807" timestamp="1586713457516" />
+  </component>
+</project>
