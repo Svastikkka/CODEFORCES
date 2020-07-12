@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="82db7710-d786-4497-be6e-c7e7cfe60938" name="Default Changelist" comment="" />
+    <list default="true" id="82db7710-d786-4497-be6e-c7e7cfe60938" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/B. Spreadsheets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B. Subsequence Hate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Not Solved/A. Candies.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Not Solved/A. Magical Sticks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Not Solved/A. Odd Selection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Not Solved/A. Pictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Not Solved/A. Shovels and Swords.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Not Solved/A. Sign Flipping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Not Solved/C. Powered Addition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cases/A. Odd Selection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cases/sample.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A. Candies.py" beforeDir="false" afterPath="$PROJECT_DIR$/A. FashionabLee.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A. Theatre Square.py" beforeDir="false" afterPath="$PROJECT_DIR$/A. Theatre Square.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/B. Racetrack.py" beforeDir="false" afterPath="$PROJECT_DIR$/B. Racetrack.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C. Pig Latin.py" beforeDir="false" afterPath="$PROJECT_DIR$/Not Solved/C. Pig Latin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C. Powered Addition.py" beforeDir="false" afterPath="$PROJECT_DIR$/B. AccurateLee.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/G. Super Weird Game.py" beforeDir="false" afterPath="$PROJECT_DIR$/Not Solved/G. Super Weird Game.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +33,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1aNjV8mXIarLeISGm9Tm9OMAbsb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -27,6 +52,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Not Solved" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/venv" />
     </key>
@@ -34,8 +60,29 @@
       <recent name="$PROJECT_DIR$/cases" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.J. AbuTahun and Flash Memories">
-    <configuration name="A. A+B (Trial Problem)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.A. Magical Sticks">
+    <configuration name="A. Magical Sticks" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CodeForce" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Not Solved" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Not Solved/A. Magical Sticks.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="B. AccurateLee" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodeForce" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -47,7 +94,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/A. A+B (Trial Problem).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/B. AccurateLee.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -56,7 +103,49 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="D. Bashar and the bad land (Easy) (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="B. Racetrack" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CodeForce" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Not Solved" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/B. Racetrack.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="C. Pig Latin" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CodeForce" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Not Solved" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Not Solved/C. Pig Latin.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sample" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodeForce" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -68,70 +157,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cases/D. Bashar and the bad land (Easy).py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="G. Super Weird Game" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="CodeForce" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/G. Super Weird Game.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="H. Mahmoud and the flagstones" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="CodeForce" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/H. Mahmoud and the flagstones.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="J. AbuTahun and Flash Memories" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="CodeForce" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/J. AbuTahun and Flash Memories.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cases/sample.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -142,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.J. AbuTahun and Flash Memories" />
-        <item itemvalue="Python.H. Mahmoud and the flagstones" />
-        <item itemvalue="Python.G. Super Weird Game" />
-        <item itemvalue="Python.A. A+B (Trial Problem)" />
-        <item itemvalue="Python.D. Bashar and the bad land (Easy) (1)" />
+        <item itemvalue="Python.A. Magical Sticks" />
+        <item itemvalue="Python.sample" />
+        <item itemvalue="Python.C. Pig Latin" />
+        <item itemvalue="Python.B. Racetrack" />
+        <item itemvalue="Python.B. AccurateLee" />
       </list>
     </recent_temporary>
   </component>
@@ -164,37 +190,37 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1419" height="244" key="GridCell.Tab.0.bottom" timestamp="1590729265937">
-      <screen x="0" y="23" width="1440" height="805" />
+    <state width="1419" height="242" key="GridCell.Tab.0.bottom" timestamp="1593706512701">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="244" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1590727089600" />
-    <state width="1419" height="204" key="GridCell.Tab.0.bottom/0.23.1440.800@0.23.1440.800" timestamp="1586991324774" />
-    <state width="1419" height="244" key="GridCell.Tab.0.bottom/0.23.1440.803@0.23.1440.803" timestamp="1589531503509" />
-    <state width="1419" height="244" key="GridCell.Tab.0.bottom/0.23.1440.805@0.23.1440.805" timestamp="1590729265937" />
+    <state width="1419" height="242" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1593706512701" />
+    <state width="1419" height="203" key="GridCell.Tab.0.bottom/0.23.1440.800@0.23.1440.800" timestamp="1590941048911" />
+    <state width="1419" height="242" key="GridCell.Tab.0.bottom/0.23.1440.803@0.23.1440.803" timestamp="1591893238590" />
+    <state width="1419" height="242" key="GridCell.Tab.0.bottom/0.23.1440.805@0.23.1440.805" timestamp="1591938340562" />
     <state width="1419" height="257" key="GridCell.Tab.0.bottom/0.23.1440.807@0.23.1440.807" timestamp="1586811188870" />
-    <state width="1419" height="244" key="GridCell.Tab.0.center" timestamp="1590729265935">
-      <screen x="0" y="23" width="1440" height="805" />
+    <state width="1419" height="242" key="GridCell.Tab.0.center" timestamp="1593706512699">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="244" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1590727089599" />
-    <state width="1419" height="204" key="GridCell.Tab.0.center/0.23.1440.800@0.23.1440.800" timestamp="1586991324772" />
-    <state width="1419" height="244" key="GridCell.Tab.0.center/0.23.1440.803@0.23.1440.803" timestamp="1589531503508" />
-    <state width="1419" height="244" key="GridCell.Tab.0.center/0.23.1440.805@0.23.1440.805" timestamp="1590729265935" />
+    <state width="1419" height="242" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1593706512699" />
+    <state width="1419" height="203" key="GridCell.Tab.0.center/0.23.1440.800@0.23.1440.800" timestamp="1590941048910" />
+    <state width="1419" height="242" key="GridCell.Tab.0.center/0.23.1440.803@0.23.1440.803" timestamp="1591893238588" />
+    <state width="1419" height="242" key="GridCell.Tab.0.center/0.23.1440.805@0.23.1440.805" timestamp="1591938340561" />
     <state width="1419" height="257" key="GridCell.Tab.0.center/0.23.1440.807@0.23.1440.807" timestamp="1586811188869" />
-    <state width="1419" height="244" key="GridCell.Tab.0.left" timestamp="1590729265931">
-      <screen x="0" y="23" width="1440" height="805" />
+    <state width="1419" height="242" key="GridCell.Tab.0.left" timestamp="1593706512698">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="244" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1590727089598" />
-    <state width="1419" height="204" key="GridCell.Tab.0.left/0.23.1440.800@0.23.1440.800" timestamp="1586991324772" />
-    <state width="1419" height="244" key="GridCell.Tab.0.left/0.23.1440.803@0.23.1440.803" timestamp="1589531503507" />
-    <state width="1419" height="244" key="GridCell.Tab.0.left/0.23.1440.805@0.23.1440.805" timestamp="1590729265931" />
+    <state width="1419" height="242" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1593706512698" />
+    <state width="1419" height="203" key="GridCell.Tab.0.left/0.23.1440.800@0.23.1440.800" timestamp="1590941048909" />
+    <state width="1419" height="242" key="GridCell.Tab.0.left/0.23.1440.803@0.23.1440.803" timestamp="1591893238587" />
+    <state width="1419" height="242" key="GridCell.Tab.0.left/0.23.1440.805@0.23.1440.805" timestamp="1591938340560" />
     <state width="1419" height="257" key="GridCell.Tab.0.left/0.23.1440.807@0.23.1440.807" timestamp="1586811188868" />
-    <state width="1419" height="244" key="GridCell.Tab.0.right" timestamp="1590729265936">
-      <screen x="0" y="23" width="1440" height="805" />
+    <state width="1419" height="242" key="GridCell.Tab.0.right" timestamp="1593706512700">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="244" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1590727089599" />
-    <state width="1419" height="204" key="GridCell.Tab.0.right/0.23.1440.800@0.23.1440.800" timestamp="1586991324773" />
-    <state width="1419" height="244" key="GridCell.Tab.0.right/0.23.1440.803@0.23.1440.803" timestamp="1589531503509" />
-    <state width="1419" height="244" key="GridCell.Tab.0.right/0.23.1440.805@0.23.1440.805" timestamp="1590729265936" />
+    <state width="1419" height="242" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1593706512700" />
+    <state width="1419" height="203" key="GridCell.Tab.0.right/0.23.1440.800@0.23.1440.800" timestamp="1590941048911" />
+    <state width="1419" height="242" key="GridCell.Tab.0.right/0.23.1440.803@0.23.1440.803" timestamp="1591893238589" />
+    <state width="1419" height="242" key="GridCell.Tab.0.right/0.23.1440.805@0.23.1440.805" timestamp="1591938340561" />
     <state width="1419" height="257" key="GridCell.Tab.0.right/0.23.1440.807@0.23.1440.807" timestamp="1586811188870" />
     <state width="1419" height="257" key="GridCell.Tab.1.bottom" timestamp="1586811188873">
       <screen x="0" y="23" width="1440" height="807" />
@@ -212,11 +238,12 @@
       <screen x="0" y="23" width="1440" height="807" />
     </state>
     <state width="1419" height="257" key="GridCell.Tab.1.right/0.23.1440.807@0.23.1440.807" timestamp="1586811188872" />
-    <state x="376" y="264" key="com.intellij.ide.util.TipDialog" timestamp="1590037777575">
+    <state x="376" y="264" key="com.intellij.ide.util.TipDialog" timestamp="1593235552687">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="376" y="264" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1590037777575" />
-    <state x="376" y="259" key="com.intellij.ide.util.TipDialog/0.23.1440.803@0.23.1440.803" timestamp="1587490568795" />
+    <state x="376" y="264" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1593235552687" />
+    <state x="376" y="258" key="com.intellij.ide.util.TipDialog/0.23.1440.800@0.23.1440.800" timestamp="1590937270272" />
+    <state x="376" y="259" key="com.intellij.ide.util.TipDialog/0.23.1440.803@0.23.1440.803" timestamp="1590980786909" />
     <state x="376" y="259" key="com.intellij.ide.util.TipDialog/0.23.1440.805@0.23.1440.805" timestamp="1586582981592" />
     <state x="376" y="260" key="com.intellij.ide.util.TipDialog/0.23.1440.807@0.23.1440.807" timestamp="1586713457516" />
   </component>
