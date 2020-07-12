@@ -2,24 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82db7710-d786-4497-be6e-c7e7cfe60938" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/B. Spreadsheets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B. Subsequence Hate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Not Solved/A. Candies.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Not Solved/A. Magical Sticks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Not Solved/A. Odd Selection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Not Solved/A. Pictionary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Not Solved/A. Shovels and Swords.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Not Solved/A. Sign Flipping.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Not Solved/C. Powered Addition.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cases/A. Odd Selection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cases/sample.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A. Candies.py" beforeDir="false" afterPath="$PROJECT_DIR$/A. FashionabLee.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A. Theatre Square.py" beforeDir="false" afterPath="$PROJECT_DIR$/A. Theatre Square.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/B. Racetrack.py" beforeDir="false" afterPath="$PROJECT_DIR$/B. Racetrack.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C. Pig Latin.py" beforeDir="false" afterPath="$PROJECT_DIR$/Not Solved/C. Pig Latin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C. Powered Addition.py" beforeDir="false" afterPath="$PROJECT_DIR$/B. AccurateLee.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/G. Super Weird Game.py" beforeDir="false" afterPath="$PROJECT_DIR$/Not Solved/G. Super Weird Game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Not Solved/A. Magical Sticks.py" beforeDir="false" afterPath="$PROJECT_DIR$/A. Magical Sticks.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +57,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Not Solved/A. Magical Sticks.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/A. Magical Sticks.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -238,10 +222,10 @@
       <screen x="0" y="23" width="1440" height="807" />
     </state>
     <state width="1419" height="257" key="GridCell.Tab.1.right/0.23.1440.807@0.23.1440.807" timestamp="1586811188872" />
-    <state x="376" y="264" key="com.intellij.ide.util.TipDialog" timestamp="1593235552687">
+    <state x="376" y="264" key="com.intellij.ide.util.TipDialog" timestamp="1594564100952">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="376" y="264" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1593235552687" />
+    <state x="376" y="264" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1594564100952" />
     <state x="376" y="258" key="com.intellij.ide.util.TipDialog/0.23.1440.800@0.23.1440.800" timestamp="1590937270272" />
     <state x="376" y="259" key="com.intellij.ide.util.TipDialog/0.23.1440.803@0.23.1440.803" timestamp="1590980786909" />
     <state x="376" y="259" key="com.intellij.ide.util.TipDialog/0.23.1440.805@0.23.1440.805" timestamp="1586582981592" />
