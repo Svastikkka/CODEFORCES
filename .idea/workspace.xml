@@ -2,8 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82db7710-d786-4497-be6e-c7e7cfe60938" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/A. Three Indices.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A. Three Pairwise Maximums.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B. Restore the Permutation by Merger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C. Make It Good.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeRams Practice Problem Archive/001. Square The Number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeRams Practice Problem Archive/002. Triple Product.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeRams Practice Problem Archive/003. Triangle Sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeRams Practice Problem Archive/004. Polygons.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeRams Practice Problem Archive/005. Fizz Buzz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeRams Practice Problem Archive/006. Distance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeRams Practice Problem Archive/007. Clock Seconds.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeRams Practice Problem Archive/009. Hello CodeRams.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Not Solved/B. Sorted Adjacent Differences.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Not Solved/C. Ancient Berland Circus.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Not Solved/D. Bashar and the bad land (Easy).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Not Solved/G. Columns Swaps.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Not Solved/A. Magical Sticks.py" beforeDir="false" afterPath="$PROJECT_DIR$/A. Magical Sticks.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D. Bashar and the bad land (Easy).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cases/A. Odd Selection.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cases/D. Bashar and the bad land (Easy).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cases/sample.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,14 +57,15 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Not Solved" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Not Solved by me" />
       <recent name="$PROJECT_DIR$/venv" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/cases" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.A. Magical Sticks">
-    <configuration name="A. Magical Sticks" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.007. Clock Seconds">
+    <configuration name="003. Triangle Sum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodeForce" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -53,11 +73,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Not Solved" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodeRams Practice Problem Archive" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/A. Magical Sticks.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodeRams Practice Problem Archive/003. Triangle Sum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -66,7 +86,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="B. AccurateLee" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="004. Polygons" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodeForce" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -74,11 +94,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodeRams Practice Problem Archive" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/B. AccurateLee.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodeRams Practice Problem Archive/004. Polygons.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -87,7 +107,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="B. Racetrack" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="005. Fizz Buzz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodeForce" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -95,11 +115,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Not Solved" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodeRams Practice Problem Archive" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/B. Racetrack.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodeRams Practice Problem Archive/005. Fizz Buzz.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -108,7 +128,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="C. Pig Latin" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="006. Distance" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodeForce" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -116,11 +136,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Not Solved" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodeRams Practice Problem Archive" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Not Solved/C. Pig Latin.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodeRams Practice Problem Archive/006. Distance.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -129,7 +149,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sample" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="007. Clock Seconds" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodeForce" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -137,11 +157,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cases" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodeRams Practice Problem Archive" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cases/sample.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodeRams Practice Problem Archive/007. Clock Seconds.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,11 +172,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.A. Magical Sticks" />
-        <item itemvalue="Python.sample" />
-        <item itemvalue="Python.C. Pig Latin" />
-        <item itemvalue="Python.B. Racetrack" />
-        <item itemvalue="Python.B. AccurateLee" />
+        <item itemvalue="Python.007. Clock Seconds" />
+        <item itemvalue="Python.006. Distance" />
+        <item itemvalue="Python.005. Fizz Buzz" />
+        <item itemvalue="Python.004. Polygons" />
+        <item itemvalue="Python.003. Triangle Sum" />
       </list>
     </recent_temporary>
   </component>
@@ -174,61 +194,48 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1419" height="242" key="GridCell.Tab.0.bottom" timestamp="1593706512701">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1419" height="201" key="GridCell.Tab.0.bottom" timestamp="1597812104131">
+      <screen x="0" y="23" width="1440" height="803" />
     </state>
     <state width="1419" height="242" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1593706512701" />
-    <state width="1419" height="203" key="GridCell.Tab.0.bottom/0.23.1440.800@0.23.1440.800" timestamp="1590941048911" />
-    <state width="1419" height="242" key="GridCell.Tab.0.bottom/0.23.1440.803@0.23.1440.803" timestamp="1591893238590" />
-    <state width="1419" height="242" key="GridCell.Tab.0.bottom/0.23.1440.805@0.23.1440.805" timestamp="1591938340562" />
-    <state width="1419" height="257" key="GridCell.Tab.0.bottom/0.23.1440.807@0.23.1440.807" timestamp="1586811188870" />
-    <state width="1419" height="242" key="GridCell.Tab.0.center" timestamp="1593706512699">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1419" height="201" key="GridCell.Tab.0.bottom/0.23.1440.800@0.23.1440.800" timestamp="1595149681464" />
+    <state width="1419" height="201" key="GridCell.Tab.0.bottom/0.23.1440.803@0.23.1440.803" timestamp="1597812104131" />
+    <state width="1419" height="203" key="GridCell.Tab.0.bottom/0.23.1440.805@0.23.1440.805" timestamp="1595024137833" />
+    <state width="1419" height="203" key="GridCell.Tab.0.bottom/0.23.1440.807@0.23.1440.807" timestamp="1595003639294" />
+    <state width="1419" height="201" key="GridCell.Tab.0.center" timestamp="1597812104130">
+      <screen x="0" y="23" width="1440" height="803" />
     </state>
     <state width="1419" height="242" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1593706512699" />
-    <state width="1419" height="203" key="GridCell.Tab.0.center/0.23.1440.800@0.23.1440.800" timestamp="1590941048910" />
-    <state width="1419" height="242" key="GridCell.Tab.0.center/0.23.1440.803@0.23.1440.803" timestamp="1591893238588" />
-    <state width="1419" height="242" key="GridCell.Tab.0.center/0.23.1440.805@0.23.1440.805" timestamp="1591938340561" />
-    <state width="1419" height="257" key="GridCell.Tab.0.center/0.23.1440.807@0.23.1440.807" timestamp="1586811188869" />
-    <state width="1419" height="242" key="GridCell.Tab.0.left" timestamp="1593706512698">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1419" height="201" key="GridCell.Tab.0.center/0.23.1440.800@0.23.1440.800" timestamp="1595149681461" />
+    <state width="1419" height="201" key="GridCell.Tab.0.center/0.23.1440.803@0.23.1440.803" timestamp="1597812104130" />
+    <state width="1419" height="203" key="GridCell.Tab.0.center/0.23.1440.805@0.23.1440.805" timestamp="1595024137832" />
+    <state width="1419" height="203" key="GridCell.Tab.0.center/0.23.1440.807@0.23.1440.807" timestamp="1595003639292" />
+    <state width="1419" height="201" key="GridCell.Tab.0.left" timestamp="1597812104129">
+      <screen x="0" y="23" width="1440" height="803" />
     </state>
     <state width="1419" height="242" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1593706512698" />
-    <state width="1419" height="203" key="GridCell.Tab.0.left/0.23.1440.800@0.23.1440.800" timestamp="1590941048909" />
-    <state width="1419" height="242" key="GridCell.Tab.0.left/0.23.1440.803@0.23.1440.803" timestamp="1591893238587" />
-    <state width="1419" height="242" key="GridCell.Tab.0.left/0.23.1440.805@0.23.1440.805" timestamp="1591938340560" />
-    <state width="1419" height="257" key="GridCell.Tab.0.left/0.23.1440.807@0.23.1440.807" timestamp="1586811188868" />
-    <state width="1419" height="242" key="GridCell.Tab.0.right" timestamp="1593706512700">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1419" height="201" key="GridCell.Tab.0.left/0.23.1440.800@0.23.1440.800" timestamp="1595149681461" />
+    <state width="1419" height="201" key="GridCell.Tab.0.left/0.23.1440.803@0.23.1440.803" timestamp="1597812104129" />
+    <state width="1419" height="203" key="GridCell.Tab.0.left/0.23.1440.805@0.23.1440.805" timestamp="1595024137832" />
+    <state width="1419" height="203" key="GridCell.Tab.0.left/0.23.1440.807@0.23.1440.807" timestamp="1595003639291" />
+    <state width="1419" height="201" key="GridCell.Tab.0.right" timestamp="1597812104130">
+      <screen x="0" y="23" width="1440" height="803" />
     </state>
     <state width="1419" height="242" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1593706512700" />
-    <state width="1419" height="203" key="GridCell.Tab.0.right/0.23.1440.800@0.23.1440.800" timestamp="1590941048911" />
-    <state width="1419" height="242" key="GridCell.Tab.0.right/0.23.1440.803@0.23.1440.803" timestamp="1591893238589" />
-    <state width="1419" height="242" key="GridCell.Tab.0.right/0.23.1440.805@0.23.1440.805" timestamp="1591938340561" />
-    <state width="1419" height="257" key="GridCell.Tab.0.right/0.23.1440.807@0.23.1440.807" timestamp="1586811188870" />
-    <state width="1419" height="257" key="GridCell.Tab.1.bottom" timestamp="1586811188873">
-      <screen x="0" y="23" width="1440" height="807" />
-    </state>
-    <state width="1419" height="257" key="GridCell.Tab.1.bottom/0.23.1440.807@0.23.1440.807" timestamp="1586811188873" />
-    <state width="1419" height="257" key="GridCell.Tab.1.center" timestamp="1586811188872">
-      <screen x="0" y="23" width="1440" height="807" />
-    </state>
-    <state width="1419" height="257" key="GridCell.Tab.1.center/0.23.1440.807@0.23.1440.807" timestamp="1586811188872" />
-    <state width="1419" height="257" key="GridCell.Tab.1.left" timestamp="1586811188871">
-      <screen x="0" y="23" width="1440" height="807" />
-    </state>
-    <state width="1419" height="257" key="GridCell.Tab.1.left/0.23.1440.807@0.23.1440.807" timestamp="1586811188871" />
-    <state width="1419" height="257" key="GridCell.Tab.1.right" timestamp="1586811188872">
-      <screen x="0" y="23" width="1440" height="807" />
-    </state>
-    <state width="1419" height="257" key="GridCell.Tab.1.right/0.23.1440.807@0.23.1440.807" timestamp="1586811188872" />
-    <state x="376" y="264" key="com.intellij.ide.util.TipDialog" timestamp="1594564100952">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1419" height="201" key="GridCell.Tab.0.right/0.23.1440.800@0.23.1440.800" timestamp="1595149681463" />
+    <state width="1419" height="201" key="GridCell.Tab.0.right/0.23.1440.803@0.23.1440.803" timestamp="1597812104130" />
+    <state width="1419" height="203" key="GridCell.Tab.0.right/0.23.1440.805@0.23.1440.805" timestamp="1595024137833" />
+    <state width="1419" height="203" key="GridCell.Tab.0.right/0.23.1440.807@0.23.1440.807" timestamp="1595003639293" />
+    <state x="376" y="259" key="com.intellij.ide.util.TipDialog" timestamp="1597807606926">
+      <screen x="0" y="23" width="1440" height="803" />
     </state>
     <state x="376" y="264" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1594564100952" />
     <state x="376" y="258" key="com.intellij.ide.util.TipDialog/0.23.1440.800@0.23.1440.800" timestamp="1590937270272" />
-    <state x="376" y="259" key="com.intellij.ide.util.TipDialog/0.23.1440.803@0.23.1440.803" timestamp="1590980786909" />
-    <state x="376" y="259" key="com.intellij.ide.util.TipDialog/0.23.1440.805@0.23.1440.805" timestamp="1586582981592" />
-    <state x="376" y="260" key="com.intellij.ide.util.TipDialog/0.23.1440.807@0.23.1440.807" timestamp="1586713457516" />
+    <state x="376" y="259" key="com.intellij.ide.util.TipDialog/0.23.1440.803@0.23.1440.803" timestamp="1597807606926" />
+    <state x="376" y="259" key="com.intellij.ide.util.TipDialog/0.23.1440.805@0.23.1440.805" timestamp="1595016662852" />
+    <state x="385" y="150" width="670" height="676" key="search.everywhere.popup" timestamp="1597808134091">
+      <screen x="0" y="23" width="1440" height="803" />
+    </state>
+    <state x="385" y="150" width="670" height="676" key="search.everywhere.popup/0.23.1440.803@0.23.1440.803" timestamp="1597808134091" />
   </component>
 </project>
