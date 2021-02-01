@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82db7710-d786-4497-be6e-c7e7cfe60938" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/A. Ahahahahahahahaha.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brookfield Computer Programming Challenge 1/A. Passing Bills.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeRams Practice Problem Archive/008. N-Dimensional Distance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeRams Practice Problem Archive/010. Points per Game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeRams Practice Problem Archive/011. Ski Sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeRams Practice Problem Archive/012. Easy Exponentials.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeRams Practice Problem Archive/013. Resistors in Parallel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeRams Practice Problem Archive/014. Labyrinth.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,38 +36,17 @@
     <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Not Solved" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/Not Solved by me" />
-      <recent name="$PROJECT_DIR$/venv" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/cases" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Not Solved" />
+      <recent name="$PROJECT_DIR$/Not Solved by me" />
+      <recent name="$PROJECT_DIR$/venv" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.A. Ahahahahahahahaha">
-    <configuration name="011. Ski Sum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="CodeForce" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodeRams Practice Problem Archive" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodeRams Practice Problem Archive/011. Ski Sum.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.014. Labyrinth">
     <configuration name="012. Easy Exponentials" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodeForce" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -107,6 +81,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodeRams Practice Problem Archive/013. Resistors in Parallel.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="014. Labyrinth" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CodeForce" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodeRams Practice Problem Archive" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodeRams Practice Problem Archive/014. Labyrinth.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.014. Labyrinth" />
         <item itemvalue="Python.A. Ahahahahahahahaha" />
         <item itemvalue="Python.A. Passing Bills" />
         <item itemvalue="Python.013. Resistors in Parallel" />
         <item itemvalue="Python.012. Easy Exponentials" />
-        <item itemvalue="Python.011. Ski Sum" />
       </list>
     </recent_temporary>
   </component>
@@ -181,47 +176,25 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1419" height="240" key="GridCell.Tab.0.bottom" timestamp="1599816928382">
+    <state width="1419" height="240" key="GridCell.Tab.0.bottom" timestamp="1612222415495">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="240" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1599816928382" />
-    <state width="1419" height="201" key="GridCell.Tab.0.bottom/0.23.1440.800@0.23.1440.800" timestamp="1595149681464" />
-    <state width="1419" height="201" key="GridCell.Tab.0.bottom/0.23.1440.803@0.23.1440.803" timestamp="1597817267787" />
-    <state width="1419" height="203" key="GridCell.Tab.0.bottom/0.23.1440.805@0.23.1440.805" timestamp="1595024137833" />
-    <state width="1419" height="203" key="GridCell.Tab.0.bottom/0.23.1440.807@0.23.1440.807" timestamp="1595003639294" />
-    <state width="1419" height="240" key="GridCell.Tab.0.center" timestamp="1599816928379">
+    <state width="1419" height="240" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1612222415495" />
+    <state width="1419" height="240" key="GridCell.Tab.0.center" timestamp="1612222415494">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="240" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1599816928379" />
-    <state width="1419" height="201" key="GridCell.Tab.0.center/0.23.1440.800@0.23.1440.800" timestamp="1595149681461" />
-    <state width="1419" height="201" key="GridCell.Tab.0.center/0.23.1440.803@0.23.1440.803" timestamp="1597817267786" />
-    <state width="1419" height="203" key="GridCell.Tab.0.center/0.23.1440.805@0.23.1440.805" timestamp="1595024137832" />
-    <state width="1419" height="203" key="GridCell.Tab.0.center/0.23.1440.807@0.23.1440.807" timestamp="1595003639292" />
-    <state width="1419" height="240" key="GridCell.Tab.0.left" timestamp="1599816928378">
+    <state width="1419" height="240" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1612222415494" />
+    <state width="1419" height="240" key="GridCell.Tab.0.left" timestamp="1612222415493">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="240" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1599816928378" />
-    <state width="1419" height="201" key="GridCell.Tab.0.left/0.23.1440.800@0.23.1440.800" timestamp="1595149681461" />
-    <state width="1419" height="201" key="GridCell.Tab.0.left/0.23.1440.803@0.23.1440.803" timestamp="1597817267785" />
-    <state width="1419" height="203" key="GridCell.Tab.0.left/0.23.1440.805@0.23.1440.805" timestamp="1595024137832" />
-    <state width="1419" height="203" key="GridCell.Tab.0.left/0.23.1440.807@0.23.1440.807" timestamp="1595003639291" />
-    <state width="1419" height="240" key="GridCell.Tab.0.right" timestamp="1599816928381">
+    <state width="1419" height="240" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1612222415493" />
+    <state width="1419" height="240" key="GridCell.Tab.0.right" timestamp="1612222415494">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="240" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1599816928381" />
-    <state width="1419" height="201" key="GridCell.Tab.0.right/0.23.1440.800@0.23.1440.800" timestamp="1595149681463" />
-    <state width="1419" height="201" key="GridCell.Tab.0.right/0.23.1440.803@0.23.1440.803" timestamp="1597817267786" />
-    <state width="1419" height="203" key="GridCell.Tab.0.right/0.23.1440.805@0.23.1440.805" timestamp="1595024137833" />
-    <state width="1419" height="203" key="GridCell.Tab.0.right/0.23.1440.807@0.23.1440.807" timestamp="1595003639293" />
-    <state x="376" y="259" key="com.intellij.ide.util.TipDialog" timestamp="1597897340026">
-      <screen x="0" y="23" width="1440" height="803" />
+    <state width="1419" height="240" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1612222415494" />
+    <state x="376" y="284" key="com.intellij.ide.util.TipDialog" timestamp="1612221572827">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="376" y="264" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1594564100952" />
-    <state x="376" y="259" key="com.intellij.ide.util.TipDialog/0.23.1440.803@0.23.1440.803" timestamp="1597897340026" />
-    <state x="376" y="259" key="com.intellij.ide.util.TipDialog/0.23.1440.805@0.23.1440.805" timestamp="1595016662852" />
-    <state x="385" y="150" width="670" height="676" key="search.everywhere.popup" timestamp="1597808134091">
-      <screen x="0" y="23" width="1440" height="803" />
-    </state>
-    <state x="385" y="150" width="670" height="676" key="search.everywhere.popup/0.23.1440.803@0.23.1440.803" timestamp="1597808134091" />
+    <state x="376" y="284" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1612221572827" />
   </component>
 </project>
